@@ -29,6 +29,9 @@ Bundles
 
 These bundles are included in `cabbage-contrib`:
 
+- **irc**: Connect to a irc chat server
+  using [erc](http://www.emacswiki.org/emacs/ERC).
+  See [bundle readme](https://github.com/senny/cabbage-contrib/blob/master/bundles/irc/readme.md).
 
 If you are interested in helping out, please have a look at our [Contribution Guidelines](https://github.com/senny/cabbage-contrib/blob/master/CONTRIBUTING.md).
 
