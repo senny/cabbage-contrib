@@ -33,6 +33,10 @@ These bundles are included in `cabbage-contrib`:
   using [erc](http://www.emacswiki.org/emacs/ERC).
   See [bundle readme](https://github.com/senny/cabbage-contrib/blob/master/bundles/irc/readme.md).
 
+- **robot-mode**: Highlighting for
+  [robot framework](http://code.google.com/p/robotframework/) within
+  plone packages.
+
 - **contrib-developer**: Open a file in contrib repository
   using `C-c C-p`.
 
