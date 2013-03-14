@@ -48,18 +48,22 @@ If you are interested in helping out, please have a look at our [Contribution Gu
 Install
 -------
 
-- Clone the `cabbage-contrib` repository update the submodules.
+- Clone the `cabbage-contrib` repository and update the submodules.
 
-    $ git clone git clone https://github.com/senny/cabbage-contrib.git
-    $ cd cabbage-contrib
-    $ git submodule init
-    $ git submodule update
+```shell
+$ git clone git clone https://github.com/senny/cabbage-contrib.git
+$ cd cabbage-contrib
+$ git submodule init
+$ git submodule update
+```
 
 - Register `cabbage-contrib` in your `~/.emacs.d/local.el` (be sure to
   insert the paths to your checkout).
 
-    (add-to-list 'cabbage-bundle-dirs (expand-file-name "~/path/to/cabbage-contrib/bundles/"))
-    (add-to-list 'cabbage-vendor-dirs (expand-file-name "~/path/to/cabbage-contrib/vendor/"))
+```shell
+(add-to-list 'cabbage-bundle-dirs (expand-file-name "~/path/to/cabbage-contrib/bundles/"))
+(add-to-list 'cabbage-vendor-dirs (expand-file-name "~/path/to/cabbage-contrib/vendor/"))
+```
 
 - Enable the desired bundles by putting them in the `cabbage-bundles`
   list in your `~/.emacs.d/config.el`.
