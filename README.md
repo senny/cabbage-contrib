@@ -29,6 +29,9 @@ Bundles
 
 These bundles are included in `cabbage-contrib`:
 
+- **github**: Emacs integration for gist.github.com
+  using [gist.el](https://github.com/defunkt/gist.el/blob/master/README.md)
+
 - **irc**: Connect to a irc chat server
   using [erc](http://www.emacswiki.org/emacs/ERC).
   See [bundle readme](https://github.com/senny/cabbage-contrib/blob/master/bundles/irc/readme.md).

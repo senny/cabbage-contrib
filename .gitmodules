@@ -1,3 +1,18 @@
 [submodule "vendor/robot-mode"]
 	path = vendor/robot-mode
 	url = https://github.com/sakari/robot-mode.git
+[submodule "vendor/tabulated-list"]
+	path = vendor/tabulated-list
+	url = https://github.com/sigma/tabulated-list.el.git
+[submodule "vendor/gh"]
+	path = vendor/gh
+	url = https://github.com/sigma/gh.el.git
+[submodule "vendor/pcache"]
+	path = vendor/pcache
+	url = https://github.com/sigma/pcache.git
+[submodule "vendor/logito"]
+	path = vendor/logito
+	url = https://github.com/sigma/logito.git
+[submodule "vendor/gist"]
+	path = vendor/gist
+	url = https://github.com/defunkt/gist.el.git
