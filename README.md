@@ -51,7 +51,7 @@ Install
 - Clone the `cabbage-contrib` repository and update the submodules.
 
 ```shell
-$ git clone git clone https://github.com/senny/cabbage-contrib.git
+$ git clone https://github.com/senny/cabbage-contrib.git
 $ cd cabbage-contrib
 $ git submodule init
 $ git submodule update
