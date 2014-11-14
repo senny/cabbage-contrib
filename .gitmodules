@@ -1,9 +1,3 @@
 [submodule "vendor/robot-mode"]
 	path = vendor/robot-mode
 	url = https://github.com/sakari/robot-mode.git
-[submodule "vendor/elixir-mode"]
-	path = vendor/elixir-mode
-	url = git@github.com:elixir-lang/emacs-elixir.git
-[submodule "vendor/elixir-mix"]
-	path = vendor/elixir-mix
-	url = git@github.com:tonini/elixir-mix.el.git

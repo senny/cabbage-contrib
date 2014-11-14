@@ -40,10 +40,6 @@ These bundles are included in `cabbage-contrib`:
 - **contrib-developer**: Open a file in contrib repository
   using `C-c C-p`.
 
-- **elixir**: Elixir programming language bundle
-  See [bundle readme](https://github.com/senny/cabbage-contrib/blob/master/bundles/elixir/readme.md).
-
-
 If you are interested in helping out, please have a look at our [Contribution Guidelines](https://github.com/senny/cabbage-contrib/blob/master/CONTRIBUTING.md).
 
 
